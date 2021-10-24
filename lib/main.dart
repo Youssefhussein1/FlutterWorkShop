@@ -175,7 +175,7 @@ class MyApp extends StatelessWidget{
                                                   children:const[
                                                     Icon(Icons.person),
                                                     SizedBox(width:10,),
-                                                    Text('Samentha Michael'),
+                                                    Text('Samantha Michael'),
                                                   ]
                                               ),
                                             ),
@@ -567,7 +567,7 @@ class MyApp extends StatelessWidget{
                                                   children:const[
                                                     Icon(Icons.person),
                                                     SizedBox(width:10,),
-                                                    Text('Son Brage'),
+                                                    Text('Son Barge'),
                                                   ]
                                               ),
                                             ),
